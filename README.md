@@ -1,5 +1,6 @@
-# 💫 About Me:
-🚀 About Me<br>🎓 Currently pursuing Bachelor of Computer Applications (BCA) (4th Semester)<br>💻 Strong foundation in programming languages: Java, C, Python<br>📚 Good understanding of core subjects: DBMS and Operating Systems<br>🌐 Skilled in web development: HTML, CSS, JavaScript<br>🔧 Familiar with version control using Git<br>🔐 Interested in Cybersecurity and ethical hacking concepts<br>🐧 Hands-on experience with Kali Linux environment<br> 🤝 Open to collaboration and continuously improving my technical skills
+# Hey This is Amit 
+# 🚀 About Me
+<br>🎓 Currently pursuing Bachelor of Computer Applications (BCA) (4th Semester)<br>💻 Strong foundation in programming languages: Java, C, Python<br>📚 Good understanding of core subjects: DBMS and Operating Systems<br>🌐 Skilled in web development: HTML, CSS, JavaScript<br>🔧 Familiar with version control using Git<br>🔐 Interested in Cybersecurity and ethical hacking concepts<br>🐧 Hands-on experience with Kali Linux environment<br> 🤝 Open to collaboration and continuously improving my technical skills
 
 
 ## 🌐 Socials:
